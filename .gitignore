@@ -1,0 +1,4 @@
+# Ignore data and cache files
+*.csv
+*.pkl
+*.pth
